@@ -1,5 +1,5 @@
 # ansible-modules
-Ansible modules
+Modules created to support functionality required for projects I have worked on.
 
 rds_cluster_param_group.py
 --------------------------
